@@ -6,3 +6,10 @@ A simple tic tac toe game with a html preview page
 
 
 by [natrix](https://github.com/natrixdev) for Jeux2Joueurs.fr (wesbite stopped so i drop my codes here !)
+
+
+
+
+
+
+👀 sub 
